@@ -85,6 +85,10 @@ img.nft {
 }
 
 /* ITENS */
+.p1 h2:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
 .p2 {
     display: flex;
     justify-content: space-between;
